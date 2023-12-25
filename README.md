@@ -67,6 +67,11 @@ In the initial data preparation phase, we performed following tasks:
   - Most invoice countries are: USA, Canada, Brazil
   - Prague city has best customer with high invoice total.
   - R.Madhav is the best customer with spent highest money, etc.
+   
+
+   
+
+    
 
     
 
