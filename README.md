@@ -2,17 +2,17 @@
 
 ## Table of Contents-
 
-   - Project Objective
-   - Project Preview
-   - Data sources
-   - Analysis
-   - Results
+- [Project Objective](#project-objective)
+- [Project Overview](#project-overview)
+- [Data sources](#data-sources)
+- [Analysis](#analysis)
+- [Results](#results)
 
 ### Project Objective-
 
 To understand the business insights by using data analysis technique such as SQL queries and help the store to understand its business growth by answering questions. 
 
-### Project Preview-
+### Project Overview-
 
 In this data analysis project we use music playlist database. To analyze and examine the music store database we have used  different SQL queries- to find out countries having most invoices, most popular genre of each country, the artist who written the most rock music, etc.It helps the store owner to understand its business insights.
 
