@@ -1,13 +1,5 @@
 # Music Store Data Aalysis
 
-## Table of Contents-
-
-- [Project Objective](#project-objective)
-- [Project Overview](#project-overview)
-- [Data sources](#data-sources)
-- [Analysis](#analysis)
-- [Results](#results)
-
 ### Project Objective-
 
 To understand the business insights by using data analysis technique such as SQL queries and help the store to understand its business growth by answering questions. 
